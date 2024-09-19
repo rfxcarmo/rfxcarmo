@@ -5,17 +5,22 @@
 
 - 💡 I like to explore new trends and learn new technologies.
 - 🌱 I'm currently learning more about Next.js 13, Tailwind CSS and React Hook Forms.
+- ❤ Tech & Coding
 
-## 📈 &nbsp;Some Code Stats ##
 
-<div width="100%">
- <span align="left">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rfxcarmo&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
- </span>
-<!--  <span align="right">
-  <img width="45%" src="https://i.imgur.com/w8cF9mr.png"/>
- </span> -->
-</div>
+
+
+<!--  
+  ## 📈 &nbsp;Some Code Stats ##
+  <div width="100%">
+      <span align="left">
+         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rfxcarmo&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
+     </span>
+     <span align="right">
+        <img width="45%" src="https://i.imgur.com/w8cF9mr.png"/>
+     </span>
+  </div> 
+-->
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
