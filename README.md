@@ -3,7 +3,6 @@
   I'm Rafael Alexandre, Software Developer from <b>Rio de Janeiro, Brasil</b>.</p>
 
 - 💡 I like to explore new trends and learn new technologies.
-- 🌱 I'm currently learning more about Next.js 13, Tailwind CSS and React Hook Forms.
 - ❤ Tech & Coding
   
 <!-- 
