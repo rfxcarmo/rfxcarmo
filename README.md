@@ -37,7 +37,7 @@
 
 ## 🌎 &nbsp;Where to find me ##
 <div style="display: inline_block"><br> 
-  <a href="https://www.rhuanbello.com" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
+<!--   <a href="https://www.rhuanbello.com" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a> -->
   <a href="https://www.linkedin.com/in/rfxcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rfxcarmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
